@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-09",
-  "next_index": 9,
+  "last_run_date": "2026-11-10",
+  "next_index": 12,
   "published_articles": [
     {
       "index": 0,
@@ -55,6 +55,24 @@
       "slug": "review-polaris-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-9",
       "date": "2026-11-09",
       "title": "Polaris 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 9,
+      "slug": "review-betta-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-10",
+      "date": "2026-11-10",
+      "title": "Betta 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 10,
+      "slug": "review-raypak-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-11",
+      "date": "2026-11-10",
+      "title": "Raypak 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 11,
+      "slug": "review-sta-rite-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-12",
+      "date": "2026-11-10",
+      "title": "Sta-Rite 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
