@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-10",
-  "next_index": 12,
+  "last_run_date": "2026-11-11",
+  "next_index": 15,
   "published_articles": [
     {
       "index": 0,
@@ -73,6 +73,24 @@
       "slug": "review-sta-rite-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-12",
       "date": "2026-11-10",
       "title": "Sta-Rite 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 12,
+      "slug": "review-waterway-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-13",
+      "date": "2026-11-11",
+      "title": "Waterway 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 13,
+      "slug": "review-blue-torrent-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-14",
+      "date": "2026-11-11",
+      "title": "Blue Torrent 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 14,
+      "slug": "review-aquabot-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-15",
+      "date": "2026-11-11",
+      "title": "Aquabot 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
