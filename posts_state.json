@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-11",
-  "next_index": 15,
+  "last_run_date": "2026-11-12",
+  "next_index": 18,
   "published_articles": [
     {
       "index": 0,
@@ -91,6 +91,24 @@
       "slug": "review-aquabot-1-5-hp-variable-speed-inground-pool-pump-20000-gallon-inground-15",
       "date": "2026-11-11",
       "title": "Aquabot 1.5 HP Variable-Speed Inground Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 15,
+      "slug": "review-hayward-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-16",
+      "date": "2026-11-12",
+      "title": "Hayward 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 16,
+      "slug": "review-pentair-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-17",
+      "date": "2026-11-12",
+      "title": "Pentair 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 17,
+      "slug": "review-dolphin-maytronics-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-18",
+      "date": "2026-11-12",
+      "title": "Dolphin Maytronics 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
