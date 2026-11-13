@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-12",
-  "next_index": 18,
+  "last_run_date": "2026-11-13",
+  "next_index": 21,
   "published_articles": [
     {
       "index": 0,
@@ -109,6 +109,24 @@
       "slug": "review-dolphin-maytronics-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-18",
       "date": "2026-11-12",
       "title": "Dolphin Maytronics 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 18,
+      "slug": "review-black-decker-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-19",
+      "date": "2026-11-13",
+      "title": "BLACK+DECKER 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 19,
+      "slug": "review-aiper-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-20",
+      "date": "2026-11-13",
+      "title": "AIPER 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 20,
+      "slug": "review-circupool-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-21",
+      "date": "2026-11-13",
+      "title": "CircuPool 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
