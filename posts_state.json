@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-14",
-  "next_index": 24,
+  "last_run_date": "2026-11-15",
+  "next_index": 27,
   "published_articles": [
     {
       "index": 0,
@@ -145,6 +145,24 @@
       "slug": "review-polaris-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-24",
       "date": "2026-11-14",
       "title": "Polaris 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 24,
+      "slug": "review-betta-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-25",
+      "date": "2026-11-15",
+      "title": "Betta 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 25,
+      "slug": "review-raypak-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-26",
+      "date": "2026-11-15",
+      "title": "Raypak 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 26,
+      "slug": "review-sta-rite-2-0-hp-high-head-variable-speed-pool-pump-20000-gallon-inground-27",
+      "date": "2026-11-15",
+      "title": "Sta-Rite 2.0 HP High-Head Variable-Speed Pool Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
