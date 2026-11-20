@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-19",
-  "next_index": 39,
+  "last_run_date": "2026-11-20",
+  "next_index": 42,
   "published_articles": [
     {
       "index": 0,
@@ -235,6 +235,24 @@
       "slug": "review-polaris-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-39",
       "date": "2026-11-19",
       "title": "Polaris 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 39,
+      "slug": "review-betta-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-40",
+      "date": "2026-11-20",
+      "title": "Betta 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 40,
+      "slug": "review-raypak-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-41",
+      "date": "2026-11-20",
+      "title": "Raypak 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 41,
+      "slug": "review-sta-rite-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-42",
+      "date": "2026-11-20",
+      "title": "Sta-Rite 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
