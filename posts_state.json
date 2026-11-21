@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-20",
-  "next_index": 42,
+  "last_run_date": "2026-11-21",
+  "next_index": 45,
   "published_articles": [
     {
       "index": 0,
@@ -253,6 +253,24 @@
       "slug": "review-sta-rite-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-42",
       "date": "2026-11-20",
       "title": "Sta-Rite 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 42,
+      "slug": "review-waterway-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-43",
+      "date": "2026-11-21",
+      "title": "Waterway 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 43,
+      "slug": "review-blue-torrent-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-44",
+      "date": "2026-11-21",
+      "title": "Blue Torrent 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 44,
+      "slug": "review-aquabot-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-45",
+      "date": "2026-11-21",
+      "title": "Aquabot 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
