@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-21",
-  "next_index": 45,
+  "last_run_date": "2026-11-22",
+  "next_index": 48,
   "published_articles": [
     {
       "index": 0,
@@ -271,6 +271,24 @@
       "slug": "review-aquabot-3-0-hp-commercial-grade-variable-speed-pump-20000-gallon-inground-45",
       "date": "2026-11-21",
       "title": "Aquabot 3.0 HP Commercial-Grade Variable-Speed Pump Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 45,
+      "slug": "review-hayward-24-inch-top-mount-high-rate-sand-filter-20000-gallon-inground-46",
+      "date": "2026-11-22",
+      "title": "Hayward 24-Inch Top-Mount High-Rate Sand Filter Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 46,
+      "slug": "review-pentair-24-inch-top-mount-high-rate-sand-filter-20000-gallon-inground-47",
+      "date": "2026-11-22",
+      "title": "Pentair 24-Inch Top-Mount High-Rate Sand Filter Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 47,
+      "slug": "review-dolphin-maytronics-24-inch-top-mount-high-rate-sand-filter-20000-gallon-inground-48",
+      "date": "2026-11-22",
+      "title": "Dolphin Maytronics 24-Inch Top-Mount High-Rate Sand Filter Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
