@@ -811,6 +811,7 @@ def build_article_page(article: dict, recent_articles: list[dict]) -> str:
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{article['title']} ({article['date']} Hydraulic Test &amp; Sizing Review)</title>
+   <meta name="google-site-verification" content="pgvlG0f03ZrRZzbgDSXRhr6tsSfseFOhXCN6Yv_j5b8" />         
   <meta name="description" content="In-depth hydraulic review of the {article['brand']} {article['model_name']} ({article['max_gal']:,} Gal, {article['flow_gpm']} GPM) for {article['app_title']}. Includes turnover calculator and Amazon price check." />
   <link rel="canonical" href="{BASE_URL}/reviews/{article['slug']}.html" />
   <meta property="og:title" content="{article['title']}" />
