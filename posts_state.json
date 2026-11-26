@@ -1,6 +1,6 @@
 {
-  "last_run_date": "2026-11-25",
-  "next_index": 60,
+  "last_run_date": "2026-11-26",
+  "next_index": 63,
   "published_articles": [
     {
       "index": 0,
@@ -361,6 +361,24 @@
       "slug": "review-aquabot-24-inch-top-mount-high-rate-sand-filter-20000-gallon-inground-60",
       "date": "2026-11-25",
       "title": "Aquabot 24-Inch Top-Mount High-Rate Sand Filter Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 60,
+      "slug": "review-hayward-425-sq-ft-quad-cartridge-pool-filter-20000-gallon-inground-61",
+      "date": "2026-11-26",
+      "title": "Hayward 425 Sq. Ft. Quad-Cartridge Pool Filter Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 61,
+      "slug": "review-pentair-425-sq-ft-quad-cartridge-pool-filter-20000-gallon-inground-62",
+      "date": "2026-11-26",
+      "title": "Pentair 425 Sq. Ft. Quad-Cartridge Pool Filter Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
+    },
+    {
+      "index": 62,
+      "slug": "review-dolphin-maytronics-425-sq-ft-quad-cartridge-pool-filter-20000-gallon-inground-63",
+      "date": "2026-11-26",
+      "title": "Dolphin Maytronics 425 Sq. Ft. Quad-Cartridge Pool Filter Review: Tested for 20,000-Gallon Inground Family Swimming Pool"
     }
   ]
 }
